@@ -1,0 +1,21 @@
+name: LobbyRail
+version: 1.0
+authors: [FastesEntity, MJ]
+main: de.fastesentity.main.Main
+commands:
+     setspawn:
+     rang:
+     fly:
+     day:
+     night:
+     clearchat:
+     broadcast:
+     warp:
+     setwarp:
+     spawn:
+     tpall:
+     vanish:
+     pay:
+     kreload:
+     build:
+     
